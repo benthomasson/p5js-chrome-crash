@@ -1,7 +1,7 @@
 
 var from_right = 20
 var target_frame_rate = 60
-var num_lines = 10000
+var num_lines = 1000000
 var current_num_lines = 10
 var lines = [[0,0, 100,100]]
 
